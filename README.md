@@ -1,2 +1,2 @@
-# FlappyBird_Game
- Jogo FlappyBird criado utilizando HTML, CSS e JS
+# FlappyBird Game
+ FlappyBird Game created using HTML, CSS and Javascript
